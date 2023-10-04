@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1695466620 source:c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\fecha.cpp
+	"Fecha.h"
+	<string>
+	<ctime>
+
+1695284743 c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\fecha.h
+	<string>
+
+1695463847 source:c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\hora.cpp
+	<iostream>
+	"Hora.h"
+	<ctime>
+
+1695463342 c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\hora.h
+	<string>
+
+1695466087 source:c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\main.cpp
+	<iostream>
+	"FechaHora.h"
+
+1695466252 c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\fechahora.h
+	<string>
+	"Fecha.h"
+	"Hora.h"
+
+1695466743 source:c:\users\mypc\desktop\daniela utn\segundo cuatrimestre - 2023\laboratorio 2\semana 2\ejercicios - fecha - horario - fechahorario\fechahora\fechahora.cpp
+	<iostream>
+	"FechaHora.h"
+	"Fecha.h"
+	"Hora.h"
+
